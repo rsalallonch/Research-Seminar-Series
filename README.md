@@ -23,3 +23,5 @@ Principalment a investigadors *early-stage* (predocs o similars) que desenvolupi
 5. Com demanar un grant/funding?
 6. Gestors bibliogràfics (Mendeley, Zotero...)
 7. Git & GitHub
+
+## Material
