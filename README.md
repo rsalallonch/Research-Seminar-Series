@@ -25,3 +25,5 @@ Principalment a investigadors *early-stage* (predocs o similars) que desenvolupi
 7. Git & GitHub
 
 ## Material
+
+https://github.com/rsalallonch/Research-Seminar-Series/blob/587e96c0dfe82ac5114169e9d688ab118811b8af/Miscellaneous.md
