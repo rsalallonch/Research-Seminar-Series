@@ -1,4 +1,4 @@
-**Llista de recursos:** 
+**List of miscellaneous resources including online books and free material:** 
 
 
 **1. Statistical Thinking for the 21st century:**
