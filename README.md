@@ -1,4 +1,4 @@
-# Research-Seminar-Series: research skills for the digital era
+# Seminar Series: Research skills for the digital era
 
 Repositori amb documentació i tutorials associats a les sessions de recerca conjuntes entre el Grup d'Imatges Biomèdiques de la Facultat de Medicina i el Servei de Neurologia de l'Hospital Clínic de Barcelona. 
 
