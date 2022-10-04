@@ -1,4 +1,4 @@
-# Research-Seminar-Series
+# Research-Seminar-Series: research skills for the digital era
 
 Repositori amb documentació i tutorials associats a les sessions de recerca conjuntes entre el Grup d'Imatges Biomèdiques de la Facultat de Medicina i el Servei de Neurologia de l'Hospital Clínic de Barcelona. 
 
@@ -16,4 +16,10 @@ Es realitzaran sessions mensuals (dia a determinar, preferiblement a les 15h). S
 Principalment a investigadors *early-stage* (predocs o similars) que desenvolupin recerca en el camp clínic, especialment aquells que treballin en Neurologia. Es considerarà ampliar el públic i convidar investigadors d'altres àrees de l'Hospital o la Facultat.  
 
 ## Temes/Speakers
-(Per confirmar)
+1. Perquè necessitem un canvi de paradigma i quines són les claus de l'èxit?
+2. R (qué és? per a qué serveix?)
+3. Python (qué es? per a qué serveix?)
+4. Data visualization
+5. Com demanar un grant/funding?
+6. Gestors bibliogràfics (Mendeley, Zotero...)
+7. Git & GitHub
